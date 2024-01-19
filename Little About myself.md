@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedjamilaa
+- 👋 Hi, I’m @syedjamilaa @jammy
 - 👀 I’m interested in Data Analytics and Data Science 
 - 🌱 I’m currently learning Data Analytics
 - 😄 Pronouns: She
